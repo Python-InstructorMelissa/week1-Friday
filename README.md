@@ -30,4 +30,27 @@ git checkout -b <branchName> = creates a new branch and changes to it (the code 
 
 git pull = brings any changes on github that are not local down to the device
 git merge origin <branchName> = allows you to merge a different branches code into your current branch
-    Every once in a while the branch will have the added words of MERGING added on meaning there is a merge conflict
+    Every once in a while the branch will have the added words of MERGING added on meaning there is a merge conflict - you should see the bad files in red and have options to chose what code to keep and what not to keep once you do a git add and commit the MERGE part will be removed from the branch name
+
+
+
+# Creating your own html css and more shortcuts for vs code
+https://www.smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/
+
+
+# Good emmett shortcuts to remember
+!  = for html creates the basics of the html doc
+div.row*3 = will create 3 divs with a class of row
+
+
+# Extensions for flask
+better Jinja
+jinja2 snippet kit
+
+# if you want to use .less files to create .css files
+install the easy less extension
+
+# to create a good github profile page
+create a repo that is called your username and add the readme.md file during creation
+
+use this link https://arturssmirnovs.github.io/github-profile-readme-generator/ to generate some basic parts of that readme file
