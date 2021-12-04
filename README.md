@@ -16,5 +16,5 @@ git remote set-url origin <add git link here>
 5. git push
 
 
-git status will show red for modified or changes files and green for files ready added but not commited
+git status will show red for modified or changes files and green for files ready added but not committed
 
